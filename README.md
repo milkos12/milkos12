@@ -1,4 +1,4 @@
 
 # 👋 Hi, I’m Miller
 
-I’m love programing 💚
+I’m like programing 💚
