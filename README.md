@@ -26,6 +26,15 @@
 
 </p>
 
+<p>
+        Durante mi trayectoria profesional, he propuesto y desarrollado soluciones de automatización utilizando tecnologías como JavaScript, Python y Google Apps Script 🛠️. Mi enfoque se ha centrado en optimizar procesos clave, lo que ha resultado en una notable mejora en la eficiencia operativa y en la reducción de errores ⚙️.
+
+</p>
+
+<p>
+        Estas iniciativas de automatización han contribuido a agilizar tareas repetitivas, permitiendo que los equipos se concentren en actividades de mayor valor añadido 🚀. Así, he facilitado un entorno de trabajo más productivo y enfocado en la innovación, impulsando el rendimiento general de la organización 📈.
+</p>
+
 
 <br/>
 <br/>
