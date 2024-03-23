@@ -26,6 +26,7 @@
   Soy Ingeniero de Software especializado en el uso de APIs, JavaScript, Python y G Suite de Google. He optimizado procesos para evitar tareas repetitivas y poco creativas en los grupos en los que he trabajado. Busco innovar para mejorar la productividad de los equipos con herramientas No-code y code.
 
 </p>
+![GitHub-logo](https://github.com/milkos12/milkos12/assets/78831533/3b245f4f-e6ed-4222-93e9-cfa986da5f81)
 
 <br/>
 <br/>
