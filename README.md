@@ -8,7 +8,7 @@
 
 
 <div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
-    <p style="text-align: center;">
+    <p align="center">
         <a href="https://www.linkedin.com/in/miller-andres-ostos-castro-ti/" target="_blank">
             <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Miller O.C"  />
         </a> 
