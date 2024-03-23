@@ -6,7 +6,6 @@
 </h3>
 
 
-
 <div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
     <p align="center">
         <a href="https://www.linkedin.com/in/miller-andres-ostos-castro-ti/" target="_blank">
@@ -19,7 +18,7 @@
 <br />
 
 <!-- About Section -->
- # <img src="https://github.com/milkos12/milkos12/assets/78831533/3b245f4f-e6ed-4222-93e9-cfa986da5f81" style="height: 50px;" alt="Saif's GitHub streak"/> Sobre Mi 
+ # <img src="https://github.com/milkos12/milkos12/assets/78831533/3b245f4f-e6ed-4222-93e9-cfa986da5f81" style="height: 50px;" alt="Saif's GitHub streak"/> Sobre Mi <img src="https://github.com/milkos12/milkos12/assets/78831533/3b245f4f-e6ed-4222-93e9-cfa986da5f81" style="height: 50px;" alt="Saif's GitHub streak"/>
  
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
@@ -28,7 +27,6 @@
 </p>
 
 
-<br/>
 <br/>
 <br/>
 
