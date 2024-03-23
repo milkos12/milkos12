@@ -1,17 +1,18 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hola! Soy
-                <b><a target="_blank" href="https://alsiam.com">Miller Ostos C.</a></b>
+                <b><a target="_blank" href="https://alsiam.com">Miller Andres Ostos Castro.</a></b>
         </samp>
 </h3>
 
 
 
-<p style="text-aling: center">
+<p style="text-align: center;">
  <a href="https://www.linkedin.com/in/miller-andres-ostos-castro-ti/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Miller O.C"  />
   </a> 
 </p>
+
 <br />
 
 <!-- About Section -->
