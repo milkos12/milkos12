@@ -1,7 +1,6 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hola!!!
-                <br><a href="https://millerandresoc.com/">https://millerandresoc.com/</a>
         </samp>
 </h3>
 
