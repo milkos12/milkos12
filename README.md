@@ -23,18 +23,10 @@
  
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
-  Soy Ingeniero de Software especializado en el uso de APIs, JavaScript, Python y G Suite de Google. He optimizado procesos para evitar tareas repetitivas y poco creativas en los grupos en los que he trabajado. Busco innovar para mejorar la productividad de los equipos con herramientas No-code y code.
+  Soy Ingeniero de Software especializado en el desarrollo de pipelines de datos, con experiencia en JavaScript, Python y G Suite de Google. He optimizado procesos y busco innovar para mejorar la productividad de los equipos, utilizando herramientas no-code y code, democratizando la información dentro de los equipos.
 
 </p>
 
-<p>
-        Durante mi trayectoria profesional, he propuesto y desarrollado soluciones de automatización utilizando tecnologías como JavaScript, Python y Google Apps Script 🛠️. Mi enfoque se ha centrado en optimizar procesos clave, lo que ha resultado en una notable mejora en la eficiencia operativa y en la reducción de errores ⚙️.
-
-</p>
-
-<p>
-        Estas iniciativas de automatización han contribuido a agilizar tareas repetitivas, permitiendo que los equipos se concentren en actividades de mayor valor añadido 🚀. Así, he facilitado un entorno de trabajo más productivo y enfocado en la innovación, impulsando el rendimiento general de la organización 📈.
-</p>
 
 
 <br/>
