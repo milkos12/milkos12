@@ -21,7 +21,7 @@
  
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
-  Soy Ingeniero de Software especializado en el desarrollo de pipelines de datos, con experiencia en JavaScript, Python y G Suite de Google. He optimizado procesos y busco innovar para mejorar la productividad de los equipos, utilizando herramientas no-code y code, democratizando la información dentro de los equipos.
+  Con experiencia en React JS, y tecnologías como JavaScript, APIs y herramientas No-code, he trabajado en automatización de procesos y visualización de datos, optimizando la eficiencia operativa en proyectos.
 
 </p>
 
