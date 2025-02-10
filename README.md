@@ -1,8 +1,8 @@
 <!-- Intro  -->
 <h3 align="center">
         <img src="https://github.com/milkos12/milkos12/assets/78831533/3b245f4f-e6ed-4222-93e9-cfa986da5f81" style="height: 50px;" alt="Saif's GitHub streak"/> 
-        <samp>&gt; Hola!!!
-        </samp>
+        <samp>&gt; Hola!!!</samp>
+        <img src="https://github.com/milkos12/milkos12/assets/78831533/3b245f4f-e6ed-4222-93e9-cfa986da5f81" style="height: 50px;" alt="Saif's GitHub streak"/> 
 </h3>
 
 
@@ -18,8 +18,7 @@
 <br />
 
 <!-- About Section -->
- # <img src="https://github.com/milkos12/milkos12/assets/78831533/3b245f4f-e6ed-4222-93e9-cfa986da5f81" style="height: 50px;" alt="Saif's GitHub streak"/> Sobre Mi <img src="https://github.com/milkos12/milkos12/assets/78831533/3b245f4f-e6ed-4222-93e9-cfa986da5f81" style="height: 50px;" alt="Saif's GitHub streak"/>
- 
+ # Sobre Mi 
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   Con experiencia en React JS, y tecnologías como JavaScript, APIs y herramientas No-code, he trabajado en automatización de procesos y visualización de datos, optimizando la eficiencia operativa en proyectos.
